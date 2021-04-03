@@ -1,0 +1,21 @@
+.container {
+  max-width: 90rem;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: darkmagenta;
+}
+
+.font {
+  font-size: 44px;
+  background-color: coral;
+}
+
+.header {
+  composes: font;
+  text-align: center;
+  color: red;
+}
+
+p {
+  color: white;
+}

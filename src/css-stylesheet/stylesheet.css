@@ -1,0 +1,21 @@
+.container {
+  max-width: 90rem;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: deepskyblue;
+}
+@media only screen and (max-width: 900px) {
+  .container {
+    background-color: fuchsia;
+  }
+}
+
+.header {
+  text-align: center;
+  font-size: 35px;
+  color: #ccc;
+}
+
+ul {
+  list-style: none;
+}
