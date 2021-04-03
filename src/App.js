@@ -9,7 +9,7 @@ function App() {
       <InlineStyle />
 
       <div className="container">
-        <h2 className="header">stylesheet bu divi etkiledi</h2>
+        <h2 className="header">stylesheet effected this "div"</h2>
       </div>
 
       <CssStylesheet />
